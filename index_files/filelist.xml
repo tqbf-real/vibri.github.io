@@ -1,6 +1,7 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
  <o:MainFile HRef="../index.htm"/>
  <o:File HRef="sound266.mid"/>
+ <o:File HRef="image320.gif"/>
  <o:File HRef="image337.gif"/>
  <o:File HRef="image343.gif"/>
  <o:File HRef="image344.gif"/>
@@ -8,5 +9,11 @@
  <o:File HRef="image319.gif"/>
  <o:File HRef="image316.png"/>
  <o:File HRef="image3161.gif"/>
+ <o:File HRef="image338.png"/>
+ <o:File HRef="image3381.gif"/>
+ <o:File HRef="image322.png"/>
+ <o:File HRef="image3221.gif"/>
+ <o:File HRef="image336.png"/>
+ <o:File HRef="image3361.gif"/>
  <o:File HRef="filelist.xml"/>
 </xml>
